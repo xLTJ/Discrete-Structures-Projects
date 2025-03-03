@@ -1,3 +1,3 @@
-module 4.6-gcd
+module gcd
 
 go 1.23

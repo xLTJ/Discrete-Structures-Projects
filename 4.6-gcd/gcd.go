@@ -5,7 +5,7 @@ func FindGcd(a, b int) int {
 		return a
 	}
 
-	// make sure a >= b
+	// make sure a > b
 	x := max(a, b)
 	y := min(a, b)
 

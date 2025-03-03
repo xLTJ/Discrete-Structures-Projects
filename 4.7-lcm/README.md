@@ -1,0 +1,1 @@
+$$\text{lcm}(a,b) = \frac{|a \cdot b|}{\gcd(a,b)}$$
